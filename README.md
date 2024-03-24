@@ -1,0 +1,1 @@
+This is a running project from Udemy Spring course that outlines basic spring functionality. I've tried to leave everything that was done in the project and comment sections out with explanations of how they work.
